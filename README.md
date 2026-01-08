@@ -4,6 +4,7 @@ This repository contains the source code for the paper: [LISRec: Modeling User P
 
 [![arXiv](https://img.shields.io/badge/arXiv-2505.22130-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2505.22130)
 [![HuggingFace – LISRec](https://img.shields.io/badge/HuggingFace-LISRec--MFilter-blue?logo=huggingface)](https://huggingface.co/xhd0728/LISRec-MFilter)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18050856.svg)](https://doi.org/10.5281/zenodo.18050856)
 
 ## Overview
 
