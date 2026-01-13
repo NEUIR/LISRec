@@ -57,7 +57,7 @@ git clone https://huggingface.co/google-t5/t5-base
 
 ## Reproduction Guide
 
-This section provides a step-by-step guide to reproduce the ConsRec results.
+This section provides a step-by-step guide to reproduce the LISRec results.
 
 > Warning: The model pre-training and fine-tuning process requires a lot of GPU resources, and the embedding vectors also take up a lot of space. Please make sure you have sufficient GPU resources and hard disk storage space.
 
