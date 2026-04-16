@@ -18,10 +18,7 @@ Yu Gu<sup>1</sup>,
 Ge Yu<sup>1</sup>,
 Chenyan Xiong<sup>4</sup>
 
-<sup>1</sup>School of Computer Science and Engineering, Northeastern University, China
-<sup>2</sup>Department of Computer Science and Technology, Tsinghua University, China
-<sup>3</sup>Alibaba Group, China
-<sup>4</sup>Language Technologies Institute, Carnegie Mellon University, United States
+<sup>1</sup>Northeastern University, <sup>2</sup>Tsinghua University, <sup>3</sup>Alibaba Group, <sup>4</sup>Carnegie Mellon University
 
 </h5>
 </div>
