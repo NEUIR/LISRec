@@ -224,14 +224,14 @@ If you find this work useful, please cite our paper and give us a shining star �
 
 ```bibtex
 @inproceedings{xin2026lisrec,
-author = {Xin, Haidong and Liu, Zhenghao and Mei, Sen and Yan, Yukun and Yu, Shi and Wang, Shuo and Chen, Zulong and Gu, Yu and Yu, Ge and Xiong, Chenyan},
-title = {LISRec: Modeling User Preferences with Learned Item Shortcuts for Sequential Recommendation},
-year = {2026},
-url = {https://doi.org/10.1145/3770854.3780337},
-doi = {10.1145/3770854.3780337},
-booktitle = {Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.1},
-pages = {1650–1661},
-numpages = {12},
+    author = {Xin, Haidong and Liu, Zhenghao and Mei, Sen and Yan, Yukun and Yu, Shi and Wang, Shuo and Chen, Zulong and Gu, Yu and Yu, Ge and Xiong, Chenyan},
+    title = {LISRec: Modeling User Preferences with Learned Item Shortcuts for Sequential Recommendation},
+    year = {2026},
+    url = {https://doi.org/10.1145/3770854.3780337},
+    doi = {10.1145/3770854.3780337},
+    booktitle = {Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.1},
+    pages = {1650–1661},
+    numpages = {12},
 }
 ```
 
