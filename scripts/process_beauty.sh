@@ -1,5 +1,5 @@
 python src/process_beauty.py \
-    --inter_data ratings_Beauty.csv \
-    --item_data meta_Beauty.json \
-    --output_inter_data beauty_inter.csv \
-    --output_item_data beauty_item.csv
+    --inter_data data/raw/beauty/ratings_Beauty.csv \
+    --item_data data/raw/beauty/meta_Beauty.json \
+    --output_inter_data data/beauty_inter.csv \
+    --output_item_data data/beauty_item.csv
